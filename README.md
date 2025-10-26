@@ -54,4 +54,4 @@ Here, you’ll find my professional experience, skills, and achievements as a **
 ---
 
 > 💡 *Tip:* Download the PDF version of my resume from this repository for a detailed overview.
-> [Download Resume (PDF)](https://github.com/yourusername/yourrepo/raw/main/resume.pdf)
+> [Download Resume (PDF)](https://github.com/dominicbelmonte/QA-Engineer-Portfolio/blob/main/Dominic_Belmonet_CV.pdf)
