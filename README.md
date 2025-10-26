@@ -54,3 +54,4 @@ Here, you’ll find my professional experience, skills, and achievements as a **
 ---
 
 > 💡 *Tip:* Download the PDF version of my resume from this repository for a detailed overview.
+> [Download Resume (PDF)](https://github.com/yourusername/yourrepo/raw/main/resume.pdf)
