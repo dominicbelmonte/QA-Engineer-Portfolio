@@ -45,6 +45,7 @@ Here, you’ll find my professional experience, skills, and achievements as a **
   <img src="https://images.icon-icons.com/2699/PNG/512/slack_tile_logo_icon_168820.png" alt="Slack" title="Slack" width="40" height="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQychPQjxHP_T53JXZDtA3L5BHAu_REHa92NQ&s" alt="Slack" title="Teams" width="40" height="40"/>
   <img src="https://withjulio.com/wp-content/uploads/2025/09/gather-icon.webp" alt="Gather" title="Gather" width="40" height="40"/>
+  <img src="https://static.vecteezy.com/system/resources/previews/006/892/625/non_2x/discord-logo-icon-editorial-free-vector.jpg" alt="Discord" title="Discord" width="40" height="40"/>
 </p>
 
 ## 📜 Certifications
