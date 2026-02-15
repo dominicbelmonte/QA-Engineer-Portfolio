@@ -8,7 +8,7 @@ Here, you’ll find my professional experience, skills, and achievements as a **
 ## 📌 About Me
 - 🧪 3+ years of experience in **QA Engineering**
 - 🔍 Skilled in **Manual Testing** & **Test Automation**
-- 💻 Strong knowledge of **JavaScript**, **Cypress**, **Git/GitHub**
+- 💻 Strong knowledge of **JavaScript**, **Cypress**, **Playwright** and **Git/GitHub**
 - 📊 Familiar with **Mochawesome** for test reporting
 - 🚀 Basic understanding of integrating tests into **CI/CD pipelines**
 - 📂 Passionate about improving software quality and delivering reliable applications
@@ -52,6 +52,7 @@ Here, you’ll find my professional experience, skills, and achievements as a **
 </p>
 
 ## 📜 Certifications
+- **Playwright: Web Automation Testing From Zero to Hero** - Udemy
 - **The Complete Cypress 12+ Course: From Zero to Expert** - Udemy
 - **The Complete 2022 Software Testing Bootcamp** - Udemy
 - **Introduction to SQL - Intermediate SQL Queries** - DataCamp
