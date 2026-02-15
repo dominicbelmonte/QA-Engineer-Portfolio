@@ -35,6 +35,9 @@ Here, you’ll find my professional experience, skills, and achievements as a **
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROBcR_jUGRUQXTxC0rRSBsepEQ_my2T8IW1g&s" alt="Capybara" title="Capybara" width="40" height="40"/>
   <img src="https://nightwatchjs.org/images/nightwatch-circle.png" alt="Nightwatch" title="Nightwatch" width="40" height="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-TB9d5YXwtKhv4NWbpeTBVveYvcxu9gMJng&s" alt="Postman" title="Postman" width="40" height="40"/>
+  <img src="https://cdn.vectorstock.com/i/500p/77/30/sql-database-icon-logo-design-ui-or-ux-app-vector-17507730.jpg" alt="SQL" title="SQL" width="40" height="40"/>
+  <img src="https://blog.octoperf.com/img/blog/jmeter-tutorial/jmeter-tutorial.png" alt="Jmeter" title="Jmeter" width="40" height="40"/>
+  <img src="https://miro.medium.com/1*8orwInnxqPRhrcKf9aOo9Q.png" alt="Azure DevOps" title="Azure DevOps" width="40" height="40"/>
 </p>
 
 ---
